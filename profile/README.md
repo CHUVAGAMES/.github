@@ -12,7 +12,7 @@ A **CHUVA Games CO** é um estúdio independente de desenvolvimento de jogos dig
 
 Nascido durante o período universitário, o projeto logo se expandiu com o apoio de colegas apaixonados por jogos, arte e tecnologia: **Marcos Genu**, **Camila Sales** e **Mohamed Capistrano**. Com o avanço dos projetos, a equipe cresceu e passou a incluir **André Borba** e **Ricardo Galasio**, integrantes ativos da comunidade de desenvolvedores no Discord.
 
-Mais tarde, o time foi reforçado por **Richard de Leon** e **Sara Amorim**, colegas de Andrews na área de marketing na Ásia. E recentemente, chegaram **Ed**, referência na cena de desenvolvimento em Belém – PA, e **Angel**, da comunidade **KyroDevs**.
+Mais tarde, o time foi reforçado por **Richard de Leon**, colega de Andrews na área de marketing na Ásia. E recentemente, chegaram **Ed**, referência na cena de desenvolvimento em Belém – PA, e **Angel**, da comunidade **KyroDevs**.
 
 ---
 
@@ -41,9 +41,9 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 
 ## 👥 Equipe
 
-| Nome               | Função                      | Destaque                        |
+| Nome               | Função                      | Destaque                         |
 |--------------------|-----------------------------|----------------------------------|
-| Andrews Nycollas   | Fundador & Game Designer    | Idealizador do estúdio          |
+| Andrews Nycollas   | Fundador & Game Designer    | Idealizador do estúdio           |
 | Marcos Genu        | Programador                 | Co-fundador                      |
 | Camila Sales       | Artista & Roteirista        | Narrativas e ambientação         |
 | Mohamed Capistrano | Game Designer               | Prototipagem e mecânicas         |
@@ -51,8 +51,8 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 | Ricardo Galasio    | Programador                 | Backend & ferramentas            |
 | Richard de Leon    | Marketing & Estratégia      | Conexões internacionais          |
 | Sara Amorim        | Social Media & Branding     | Comunicação e identidade visual  |
-| Ed                 | Desenvolvedor               | Cena indie de Belém – PA         |
-| Angel              | Community & QA              | Comunidade KyroDevs              |
+| Ed                 | Artista de Foley            | Cena indie de Belém – PA         |
+| Angel              | Menor Apendiz               | Comunidade KyroDevs              |
 
 ---
 
