@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/chuvamain.png" alt="CHUVA Games CO Logo" width="200" />
-  <h1>☔ CHUVA Games CO</h1>
+  <h1>CHUVA Games CO</h1>
   <h3>Estúdio independente de desenvolvimento de jogos • Fundado em 2024</h3>
 </div>
 
