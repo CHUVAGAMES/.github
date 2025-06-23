@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CHUVA-Games-CO/logo/main/logo.svg" alt="CHUVA Games CO Logo" width="200" />
+  <img src="/chuvamain.png" alt="CHUVA Games CO Logo" width="200" />
   <h1>☔ CHUVA Games CO</h1>
   <h3>Estúdio independente de desenvolvimento de jogos • Fundado em 2024</h3>
 </div>
