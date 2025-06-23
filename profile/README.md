@@ -41,18 +41,17 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 
 ## 👥 Equipe
 
-| Nome               | Função                      | Destaque                         |
-|--------------------|-----------------------------|----------------------------------|
-| Andrews Nycollas   | Fundador & Game Designer    | Idealizador do estúdio           |
-| Marcos Genu        | Programador                 | Co-fundador                      |
-| Camila Sales       | Artista & Roteirista        | Narrativas e ambientação         |
-| Mohamed Capistrano | Game Designer               | Prototipagem e mecânicas         |
-| André Borba        | Front-End & Web Designer    | Interações visuais e UI/UX       |
-| Ricardo Galasio    | Programador                 | Backend & ferramentas            |
-| Richard de Leon    | Marketing & Estratégia      | Conexões internacionais          |
-| Sara Amorim        | Social Media & Branding     | Comunicação e identidade visual  |
-| Ed                 | Artista de Foley            | Cena indie de Belém – PA         |
-| Angel              | Menor Apendiz               | Comunidade KyroDevs              |
+| Nome               | Função                               | Destaque                         |
+|--------------------|--------------------------------------|----------------------------------|
+| Andrews Nycollas   | Diretor Criativo / Designer de Jogos | Idealizador do estúdio           |
+| Marcos Genu        | Diretor de Arte                      | Artista                          |
+| Mohamed Capistrano | Produtor / Designer de Comportamento | Prototipagem e mecânicas         |
+| Ricardo Galasio    | Especialista em Linux / Ator de Voz  | Backend & ferramentas            |
+| André Borba        | Produtor / Front-End & Web Designer  | Website / UI/UX / Community      |
+| Camila Sales       | Artista 2D                           | Narrativas e ambientação         |
+| Richard de Leon    | Marketing & Estratégia               | Conexões internacionais          |
+| Ed                 | Artista de Foley                     | Cena de Belém – PA               |
+| Miguel (Angel)     | Menor Apendiz                        | Comunidade KyroDevs              |
 
 ---
 
@@ -68,10 +67,8 @@ Mais detalhes em breve!
 
 Quer falar com a gente? Tem interesse em parcerias, colaborações ou apenas quer acompanhar nosso trabalho?
 
-- 🌐 [Site Oficial](https://chuva.games)
-- 📬 contato@chuva.games
-- 🐦 [@CHUVAgames](https://twitter.com/CHUVAgames)
-- 💬 [Discord da Comunidade](https://discord.gg/chuva)
+- 🌐 [Site Oficial](https://chuvagames.co)
+- 💬 [Discord da Comunidade](https://discord.gg/Py6nAHGcDX)
 
 ---
 
