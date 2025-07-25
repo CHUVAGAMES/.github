@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="/chuvamain.png" alt="CHUVA Games CO Logo" width="200" />
-  <h1>CHUVA Games CO</h1>
+  <img src="/chuvamain.png" alt="CHUVA Games Logo" width="200" />
+  <h1>CHUVA Games</h1>
   <h3>Estúdio independente de desenvolvimento de jogos • Fundado em 2024</h3>
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🌧️ Sobre Nós
 
-A **CHUVA Games CO** é um estúdio independente de desenvolvimento de jogos digitais fundado em 2024 por **Andrews Nycollas**. 
+A **CHUVA Games** é um estúdio independente de desenvolvimento de jogos digitais fundado em 2024 por **Andrews Nycollas**. 
 
 Nascido durante o período universitário, o projeto logo se expandiu com o apoio de colegas apaixonados por jogos, arte e tecnologia: **Marcos Genu**, **Camila Sales** e **Mohamed Capistrano**. Com o avanço dos projetos, a equipe cresceu e passou a incluir **André Borba** e **Ricardo Galasio**, integrantes ativos da comunidade de desenvolvedores no Discord.
 
@@ -18,7 +18,7 @@ Mais tarde, o time foi reforçado por **Richard de Leon**, colega de Andrews na 
 
 ## 🧠 Diversidade Cognitiva como Força Criativa
 
-Um dos grandes diferenciais da CHUVA Games CO é sua equipe majoritariamente composta por pessoas **neurodivergentes**, incluindo indivíduos com **TEA (Transtorno do Espectro Autista)** e **TDAH (Transtorno de Déficit de Atenção e Hiperatividade)**.
+Um dos grandes diferenciais da CHUVA Games é sua equipe majoritariamente composta por pessoas **neurodivergentes**, incluindo indivíduos com **TEA (Transtorno do Espectro Autista)** e **TDAH (Transtorno de Déficit de Atenção e Hiperatividade)**.
 
 Essa pluralidade de formas de pensar e criar tem sido uma fonte constante de inovação, autenticidade e sensibilidade na construção de nossos jogos. Ela influencia diretamente:
 
@@ -67,7 +67,7 @@ Mais detalhes em breve!
 
 Quer falar com a gente? Tem interesse em parcerias, colaborações ou apenas quer acompanhar nosso trabalho?
 
-- 🌐 [Site Oficial](https://chuvagames.co)
+- 🌐 [Site Oficial](https://chuvagames.com)
 - 💬 [Discord da Comunidade](https://discord.gg/Py6nAHGcDX)
 
 ---
