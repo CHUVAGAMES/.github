@@ -50,8 +50,11 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 | André Borba        | Produtor / Front-End & Web Designer  | Website / UI/UX / Community      |
 | Camila Sales       | Artista 2D                           | Narrativas e ambientação         |
 | Richard de Leon    | Marketing & Estratégia               | Conexões internacionais          |
-| Ed                 | Artista de Foley                     | Cena de Belém – PA               |
+| Edpaulo Cardoso    | Artista de Foley                     | Cena de Belém – PA               |
 | Miguel (Angel)     | Menor Apendiz                        | Comunidade KyroDevs              |
+| Brendo Teles       | Artista 2D / 3D e Animação           | O cara do 3D                     |
+| Gabriel Flexa      | Produtor Musical                     | Banda Verene                     |
+| Rene Ballestreros  | Senior Full-Stack Developer          | Especialista em Python           |
 
 ---
 
