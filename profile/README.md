@@ -47,7 +47,6 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 | Marcos Genu        | Diretor de Arte                      | Artista                          |
 | Mohamed Capistrano | Produtor / Designer de Comportamento | Prototipagem e mecânicas         |
 | Ricardo Galasio    | Especialista em Linux / Ator de Voz  | Backend & ferramentas            |
-| André Borba        | Produtor / Front-End & Web Designer  | Website / UI/UX / Community      |
 | Camila Sales       | Artista 2D                           | Narrativas e ambientação         |
 | Richard de Leon    | Marketing & Estratégia               | Conexões internacionais          |
 | Edpaulo Cardoso    | Artista de Foley                     | Cena de Belém – PA               |
@@ -58,9 +57,6 @@ Criar experiências digitais significativas que respeitam a diversidade humana e
 
 ---
 
-## 🚀 Em que estamos trabalhando?
-
-Atualmente estamos desenvolvendo **jogos autorais com foco em narrativa, identidade visual forte e experiências emocionalmente marcantes**.
 
 Mais detalhes em breve!
 
@@ -76,7 +72,6 @@ Quer falar com a gente? Tem interesse em parcerias, colaborações ou apenas que
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chuva-games/assets/main/banner.gif" alt="CHUVA Games CO Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/chuva-games/assets/main/banner.gif" alt="CHUVA Games Banner" width="100%" />
   <br/>
-  <em>“Criar jogos é nossa forma de transformar a chuva em arte.”</em>
 </div>
